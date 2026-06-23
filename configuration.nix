@@ -140,6 +140,7 @@
       onlyoffice-desktopeditors
       rustup
       localsend
+      libnotify
       kdePackages.kate
     ];
   };

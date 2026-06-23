@@ -139,6 +139,7 @@
       gparted
       onlyoffice-desktopeditors
       rustup
+      localsend
       kdePackages.kate
     ];
   };

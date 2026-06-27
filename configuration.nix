@@ -154,6 +154,8 @@
   programs.firefox.enable = true;
   #hyprland
   programs.hyprland.enable = true;
+  #apps em geral (appimage)
+  programs.nix-ld.enable = true;
   # Allow unfree packages
   nixpkgs.config.allowUnfree = true;
   nixpkgs.config.permittedInsecurePackages = [
